@@ -1,0 +1,141 @@
+    1  apt-get install git
+    2  sudo apt-get install git
+    3  ls
+    4  cd Documents/
+    5  mkdir projet
+    6  cd projet/
+    7  git clone github.com/GrimGrii/Day00
+    8  sudo apt install git
+    9  git clone github.com/GrimGrii/Day00
+   10  apt-get update git
+   11  apt-get update
+   12  sudo apt-get update
+   13  git clone github.com/GrimGrii/Day00
+   14  sudo apt install git
+   15  git clone github.com/GrimGrii/Day00
+   16  sudo git clone github.com/GrimGrii/Day00
+   17  sudo git clone github.com/GrimGrii/Day00.git
+   18  sudo git clone https://github.com/GrimGrii/Day00
+   19  mkdir covers
+   20  m
+   21  cd covers/
+   22  mkdir Constructeurs
+   23  cd ../
+   24  rmdir -rf covers
+   25  rmdir --help
+   26  rmdir covers
+   27  rmdir -p covers
+   28  cd covers
+   29  cd Constructeurs
+   30  mkdir Sony Nintendo Microsoft Sega
+   31  cd Sony
+   32  mkdir Consoles
+   33  cd Consoles
+   34  mkdir PS4 PS5
+   35  cd ps4
+   36  cd PS4
+   37  cd ../
+   38  ../
+   39  ls
+   40  cd ../
+   41  mkdir Consoles/Consoles portables
+   42  mkdir Consoles/ Consoles portables
+   43  mkdir Consoles/ Consoles_portables
+   44  cd Consoles
+   45  mkdir Consoles_Portables
+   46  cd ../
+   47  mkdir Nintendo
+   48  cd Nintendo
+   49  mkdir Consoles Consoles_Portables
+   50  cd Consoles
+   51  mkdir Gamecube
+   52  cd Gamecube
+   53  cd ../
+   54  cd Consoles_Portables/
+   55  ls
+   56  cd ../
+   57  ls
+   58  cd Consoles_Portables
+   59  mkdir Game Boy
+   60  rmdir Boy
+   61  rmdir Game
+   62  mkdir Game_Boy
+   63  ls
+   64  cd ../
+   65  ../
+   66  cd ../
+   67  mkdir Microsoft
+   68  cd Microsoft
+   69  mkdir Consoles 
+   70  cd Consoles
+   71  mkdir Xbox Xbox360
+   72  cd ../
+   73  cd Sega
+   74  mkdir Consoles
+   75  cd Consoles
+   76  mkdir Dreamcast
+   77  cd ../../
+   78  cd ../../../../../
+   79  cd File_System
+   80  ls
+   81  cd mint
+   82  ls
+   83  cd Download
+   84  cd Downloads
+   85  ls
+   86  cd covers
+   87  mc
+   88  cd ../
+   89  mv ../
+   90  cd ../
+   91  cd Downloads/covers
+   92  mv ../../Documents/projet/covers/Constructeurs/Sony/Consoles/PS4 playstation_4.unchartedthelostlegacy.jpg
+   93  cd ../../Documents/projet/covers/Constructeurs/Sony/Consoles/PS4
+   94  cd ../../../../../../
+   95  cd ../Dowwnloads/covers
+   96  cd ../Downloads/covers
+   97  sudo mv ../../Documents/projet/covers/Constructeurs/Sony/Consoles/PS4 playstation_4.unchartedthelostlegacy.jpg
+   98  mv   ../../Documents/projet/covers/Constructeurs/Sony/Consoles/PS4
+   99  mv playstation_4.unchartedthelostlegacy.jpg ../../Documents/projet/covers/Constructeurs/Sony/Consoles/PS4
+  100  mv ps4_fifa14.jpg ../../Documents/projet/covers/Constructeurs/Sony/Consoles/PS4
+  101  mv playstation_4.watchdogs.jpg ../../Documents/projet/covers/Constructeurs/Sony/Consoles/PS4
+  102  mv playstation_4.watchdogs2.jpg ../../Documents/projet/covers/Constructeurs/Sony/Consoles/PS4
+  103  mv playstation_4.assassinscreedodyssey.jpg ../../Documents/projet/covers/Constructeurs/Sony/Consoles/PS4
+  104  mv playstation_5.farcry6.jpg ../../Documents/projet/covers/Constructeurs/Sony/Consoles/PS5
+  105  mv playstation_5.residentevilvillage.jpg ../../Documents/projet/covers/Constructeurs/Sony/Consoles/PS5
+  106  mv playstation_5.residentevilvillage_.jpg ../../Documents/projet/covers/Constructeurs/Sony/Consoles/PS5
+  107  mv gc_mariokartdoubledash.jpg ../../Documents/projet/covers/Constructeurs/Nintendo/Consoles/Gamecube
+  108  mv gc_supermariosunshine.jpg ../../Documents/projet/covers/Constructeurs/Nintendo/Consoles/Gamecube
+  109  mv gc_pokemonblue_eu.jpg ../../Documents/projet/covers/Constructeurs/Nintendo/Consoles_Portables/
+  110  mv gc_pokemonblue_eu.jpg ../../Documents/projet/covers/Constructeurs/Nintendo/Consoles_Portables/Game_Boy
+  111  mv gb_pokemonblue_eu.jpg ../../Documents/projet/covers/Constructeurs/Nintendo/Consoles_Portables/Game_Boy
+  112  mv gb_pokemongreen_3.jpg ../../Documents/projet/covers/Constructeurs/Nintendo/Consoles_Portables/Game_Boy
+  113  mv gb_pokemonyellow_au.jpg ../../Documents/projet/covers/Constructeurs/Nintendo/Consoles_Portables/Game_Boy
+  114  mv gbc_pokemongold.jpg ../../Documents/projet/covers/Constructeurs/Nintendo/Consoles_Portables/Game_Boy
+  115  mv xbox_deadoralive3.jpg ../../Documents/projet/covers/Constructeurs/Microsoft/Consoles/Xbox
+  116  mv xbox_deadtorights.jpg ../../Documents/projet/covers/Constructeurs/Microsoft/Consoles/Xbox
+  117  mv xbox_defjamfightforny.jpg ../../Documents/projet/covers/Constructeurs/Microsoft/Consoles/Xbox
+  118  mv xbox_halo2.jpg ../../Documents/projet/covers/Constructeurs/Microsoft/Consoles/Xbox
+  119  mv xbox_halo_2.jpg ../../Documents/projet/covers/Constructeurs/Microsoft/Consoles/Xbox
+  120  mv xbox_jetsetradiofuture_2.jpg ../../Documents/projet/covers/Constructeurs/Microsoft/Consoles/Xbox
+  121  mv xbox_needforspeedunderground2.jpg ../../Documents/projet/covers/Constructeurs/Microsoft/Consoles/Xbox
+  122  mv dc_jetgrindradio.jpg ../../Documents/projet/covers/Constructeurs/Sega/Consoles/Dreamcast
+  123  mv dc_jetgrindradio_10.jpg ../../Documents/projet/covers/Constructeurs/Sega/Consoles/Dreamcast
+  124  mv dc_jetsetradio_10.jpg ../../Documents/projet/covers/Constructeurs/Sega/Consoles/Dreamcast
+  125  mv dc_jetsetradio_eu_front.jpg ../../Documents/projet/covers/Constructeurs/Sega/Consoles/Dreamcast
+  126  mv dc_shenmue_eu.jpg ../../Documents/projet/covers/Constructeurs/Sega/Consoles/Dreamcast
+  127  mv dc_shenmueii_5.jpg ../../Documents/projet/covers/Constructeurs/Sega/Consoles/Dreamcast
+  128  history
+  129  cd ../../documents/projet/Day00
+  130  cd ../../Documents/projet/Day00
+  131  mk hystorique.txt
+  132  touch hystorique.txt
+  133  sudo touch hystorique.txt
+  134  history >hystorique.txt
+  135  sudo history >hystorique.txt
+  136  cd ../../Documents/projet/Day00
+  137  hmod 777 hystorique.txt
+  138  chmod 777 hystorique.txt
+  139  sudo chmod 777 hystorique.txt
+  140  sudo history >hystorique.txt
+  141  history >hystorique.txt
