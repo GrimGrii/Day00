@@ -1,0 +1,162 @@
+    1  ;qn hoqk
+    2  sudo apt update
+    3  apt-get install git
+    4  su
+    5  ff
+    6  sudo apt-get install git
+    7  sudo git clone https://github.com/GrimGrii/Day00
+    8  ls
+    9  cd Day00
+   10  cd ../
+   11  sudo chmod 777 Day00
+   12  cd Day00
+   13  touch php_remote_2019.csv javascript_villeubanne_charbonnieres.csv david.csv mails_gex.csv mails_charbonnieres_remote.csv python_2008.csv
+   14  ls
+   15  grep "PHP" it_alumni.csv > php_remote_2019.csv 
+   16  man awk
+   17  cd ../
+   18  sudo git clone https://github.com/GrimGrii/Day01
+   19  sudo chmod 777 Day01
+   20  sudo chmod 777 Day01/
+   21  cd Day01
+   22  sudo git clone https://github.com/EpitaphStudLearning/Day01
+   23  ls
+   24  sudo chmod 777 Day01
+   25  cd Day01
+   26  ls
+   27  cd ex00/
+   28  ls
+   29  cd ../../../
+   30  cd Day00/
+   31  awk | grep "JS" | grep "Charbonnieres" | grep "Villeurbanne" > javascript_villeubanne_charbonnieres.csv 
+   32  man awk
+   33  awk -F | grep "JS" | grep "Charbonnieres" | grep "Villeurbanne" > javascript_villeubanne_charbonnieres.csv 
+   34  awk -F | grep "JS" | grep "Charbonnieres" | grep "Villeurbanne" it_alumni.csv > javascript_villeubanne_charbonnieres.csv 
+   35  awk grep "JS" | grep "Charbonnieres" | grep "Villeurbanne" it_alumni.csv > javascript_villeubanne_charbonnieres.csv 
+   36  awk grep "Js" | grep "Charbonnieres" | grep "Villeurbanne" it_alumni.csv > javascript_villeubanne_charbonnieres.csv 
+   37  rm javascript_villeubanne_charbonnieres.csv 
+   38  touch javascript_villeubanne_charbonnieres.csv 
+   39  awk | grep "Js" | grep "Charbonnieres" | grep "Villeurbanne" it_alumni.csv > javascript_villeubanne_charbonnieres.csv 
+   40  rm javascript_villeubanne_charbonnieres.csv 
+   41  touch javascript_villeubanne_charbonnieres.csv 
+   42  awk -Fs | grep "Js" | grep "Charbonnieres" | grep "Villeurbanne" it_alumni.csv > javascript_villeubanne_charbonnieres.csv 
+   43  rm javascript_villeubanne_charbonnieres.csv 
+   44  touch javascript_villeubanne_charbonnieres.csv 
+   45  awk grep "Js" "Charbonnieres" "Villeurbanne" it_alumni.csv > javascript_villeubanne_charbonnieres.csv 
+   46  awk grep (Js) (Charbonnieres) (Villeurbanne) it_alumni.csv > javascript_villeubanne_charbonnieres.csv 
+   47  awk | grep "Js" "Charbonnieres" "Villeurbanne" it_alumni.csv > javascript_villeubanne_charbonnieres.csv 
+   48  rm javascript_villeubanne_charbonnieres.csv 
+   49  touch javascript_villeubanne_charbonnieres.csv 
+   50  awk | grep "Js" "Charbonnieres" "Villeurbanne" it_alumni.csv > javascript_villeubanne_charbonnieres.csv 
+   51  rm javascript_villeubanne_charbonnieres.csv 
+   52  touch javascript_villeubanne_charbonnieres.csv 
+   53  cd ../
+   54  cd Day01
+   55  ls
+   56  cd ex00
+   57  ls
+   58  sed $d deposition_Joe_Rugiani.txt 
+   59  nano deposition_Joe_Rugiani.txt 
+   60  ed -s deposition_Joe_Rugiani.txt <<< $'-2,$d\nwq'
+   61  nano deposition_Joe_Rugiani.txt 
+   62  sed $d deposition_Joe_Rugiani.txt 
+   63* sed $d deposition_Joe_Rugiani.txt 
+   64  nano deposition_Joe_Rugiani.txt 
+   65  cat deposition_Joe_Rugiani.txt 
+   66  sed -i 9,$d deposition_Joe_Rugiani.txt 
+   67  cat deposition_Joe_Rugiani.txt 
+   68  sed -i 9,$d deposition_Joe_Rugiani.txt 
+   69  sed -i 9$d deposition_Joe_Rugiani.txt 
+   70  head --lines=-N deposition_Joe_Rugiani.txt 
+   71  head --lines=-2 deposition_Joe_Rugiani.txt 
+   72  cat deposition_Joe_Rugiani.txt 
+   73  head --lines=-2 deposition_Joe_Rugiani.txt > deposition_Joe_Rugiani.txt 
+   74  sudo chmod 777 deposition_Joe_Rugiani.txt 
+   75  head --lines=-2 deposition_Joe_Rugiani.txt > deposition_Joe_Rugiani.txt 
+   76  cat deposition_Joe_Rugiani.txt 
+   77  nano deposition_Joe_Rugiani.txt 
+   78  sed -n -e :a -e '1,2!{P;N;D;};N;ba' deposition_Joe_Rugiani.txt 
+   79  cat deposition_Joe_Rugiani.txt 
+   80  sed -n -e :a -e '1,2!{P;N;D;};N;ba' deposition_Joe_Rugiani.txt > deposition_Joe_Rugiani.txt 
+   81  cat deposition_Joe_Rugiani.txt 
+   82  nano deposition_Joe_Rugiani.txt 
+   83  touch transaction.txt
+   84  cd ../
+   85  sudo chmod 777 ex00/
+   86  cd ex00
+   87  touch transaction.txt
+   88  sed -n -e :a -e '1,2!{P;N;D;};N;ba' deposition_Joe_Rugiani.txt > transaction.txt
+   89  man transaction.txt > deposition_Joe_Rugiani.txt 
+   90  cat deposition_Joe_Rugiani.txt 
+   91  nano depo
+   92  nano deposition_Joe_Rugiani.txt 
+   93  sed -i -n -e :a -e '1,2!{P;N;D;};N;ba' deposition_Joe_Rugiani.txt
+   94  cat deposition_Joe_Rugiani.txt 
+   95  rm transaction.txt 
+   96  touch magic.txt
+   97  nano magic.txt 
+   98  Je marchais sur central avenue
+   99  quand j'ai vu cette cadillac jaune
+l'homme qui la conduisait avait un chapeau rouge
+  100  Bien habillé certainement un irlandais je dirais
+  101  tout a coup un jeune livreur s'est approché de la voiture
+ils ont discute durant 30 minutes et le chauffeur lui a donné 
+un paquet ensuite le jeune livreur l'a range dans son sac a dos
+  102  et est parti en direction du Green Albion
+  103  Il est rentré dans le pub avec son colis
+  104  Puis il est sorti je l'ai vu de mes propres yeux
+Par contre il avait toujours le colis vous faites fausse piste
+  105  nano magic.txt 
+  106  cd ../../../
+  107  cd Day00/
+  108  ls
+  109  grep -E 'Js.Villeurbanne|Js.Charbonnieres' > javascript_villeubanne_charbonnieres.csv 
+  110  grep -E 'Js.Villeurbanne|Js.Charbonnieres' it_alumni.csv> javascript_villeubanne_charbonnieres.csv 
+  111  cat it_alumni.csv 
+  112  cat javascript_villeubanne_charbonnieres.csv 
+  113  grep -E 'Js.*Villeurbanne|Js.*Charbonnieres' it_alumni.csv> javascript_villeubanne_charbonnieres.csv 
+  114  cat javascript_villeubanne_charbonnieres.csv 
+  115  cat it_alumni.csv 
+  116  grep -E 'Js.*Villeurbanne|Js.*Charbonnieres' it_alumni.csv
+  117  grep -E 'Js.*Villeurbanne|Villerubanne.*Js|Js.*Charbonnieres|Charbonnieres.*Js' it_alumni.csv > javascript_villeubanne_charbonnieres.csv 
+  118  cat javascript_villeubanne_charbonnieres.csv 
+  119  cat it_alumni.csv | grep "David" | wc -l
+  120  cat it_alumni.csv | grep "David" | wc -l > david.csv 
+  121  cat david.csv 
+  122  grep "Gex" it_alumni.csv | awk '{print $6}' 
+  123  grep "Gex" it_alumni.csv | awk '{print $5}' 
+  124  grep "Gex" it_alumni.csv | awk '{print $4}' 
+  125  grep "Gex" it_alumni.csv | awk '{echo $4}' 
+  126  grep "Gex" it_alumni.csv | awk '{echo $6}' 
+  127  grep "Gex" it_alumni.csv | awk '{print $6}' 
+  128  grep "Gex" it_alumni.csv | awk '{print $6}' > mails_gex.csv 
+  129  cat mails_gex.csv 
+  130  rm mails_gex.csv 
+  131  touch mails_gex.csv 
+  132  grep "Gex" it_alumni.csv | awk -F "\"*,\"*" '{print $6}
+  133  grep "Gex" it_alumni.csv | awk -F "\"*,\"*" '{print $6}'
+  134  grep "Gex" it_alumni.csv | awk -F "\"*,\"*" '{print $6}' > mails_gex.csv 
+  135  cat mails_gex.csv 
+  136  grep "Charbonnieres|Remote" it_alumni.csv | awk -F "\"*,\"*" '{print $6}' > mails_charbonnieres_remote.csv 
+  137  cat mails_charbonnieres_remote.csv 
+  138  grep "Charbonnieres|Remote" it_alumni.csv | awk -F "\"*,\"*" '{print $6}' 
+  139  grep "Charbonnieres|Remote" it_alumni.csv | awk -F "\"*,\"*" '{print $6}' it_alumni.csv 
+  140  grep "Charbonnieres|Remote" it_alumni.csv | awk -F "\"*,\"*" '{print $6}' it_alumni.csv > mails_charbonnieres_remote.csv 
+  141  cat it_alumni.csv | grep "2018.*Python|Python.*2018" | wc -l> python_2008.csv 
+  142  cat python_2008.csv 
+  143  cat it_alumni.csv | grep "2008.*Python|Python.*2008" | wc -l> python_2008.csv 
+  144  cat python_2008.csv 
+  145  grep "2008.*Python|Python.*2008" | wc -l > python_2008.csv 
+  146  grep "2008.*Python|Python.*2008" it_alumni.csv | wc -l > python_2008.csv 
+  147  cat python_2008.csv 
+  148  grep '2008.*Python|Python.*2008' it_alumni.csv | wc -l > python_2008.csv 
+  149  cat python_2008.csv 
+  150  grep '2008.*Python|Python.*2008' it_alumni.csv | wc -l it_alumni.csv> python_2008.csv 
+  151  cat python_2008.csv 
+  152  rm python_2008.csv 
+  153  touch python_2008.csv 
+  154  grep -o '2008.*Python' it_alumni.csv| wc -l > python_2008.csv 
+  155  cat python_2008.csv 
+  156  cd ex06
+  157  touch history.txt
+  158  history > history.txt 
